@@ -1,0 +1,65 @@
+body{
+  background: rgb(226, 172, 127);
+}
+#wrap{
+  border: dotted;
+  background-color:#F5F5DC ;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 10px;
+  text-align: center;
+}
+.line{
+  border-style: dotted;
+}
+h1{
+  font-style: italic;
+}
+p{
+  text-align: justify;
+  font-size: small;
+}
+ul{
+  font-style: italic;
+}
+li::first-letter{
+  font-weight: bold;
+  font-size: 120%;
+  text-align: center;
+}
+li{
+  list-style: none;
+}
+
+.copyright{
+  text-align: center;
+  font-size: small;
+}
+p{
+  text-align: justify;
+}
+
+</style>
+</head>
+<body>
+<div id="wrap">
+<h1>Shakespeare's Sonnet #18</h1>
+<div class="line"></div>
+<p>
+
+</p>
+<ul>
+
+</ul>
+<p class="copyright">
+  See the
+  <a href="http://en.wikipedia.org/wiki/Shakespeare%27s_Sonnets%22%3E
+    Shakespeare's sonnets</a
+  >
+  Wikipedia article for more information
+</p>
+</div>
+</body>
+</html>
