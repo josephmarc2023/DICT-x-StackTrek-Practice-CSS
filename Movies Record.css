@@ -1,0 +1,35 @@
+table.dark {
+    border: 1px solid #1a1a1a;
+    background: #2F2F2F;
+}
+
+table.dark th {
+    border-bottom:1px solid #000;
+    text-align: justify;
+    color: #CBCACB;
+    background: #1C1C1C;
+    padding: 10px;
+    font-weight: bolder;
+    border-color: #222222;
+    background-image: linear-gradient(#424242, #000000);
+}
+
+table.dark td {
+    border-right:1px solid #1a1a1a;
+    color: #6D6D6D;
+    background-size: contain;
+    background-image: url(images/gradient.gif);
+    background-image: linear-gradient(#424242, #000000);
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table.dark h4 {
+    font-weight:bold;
+    font-size: larger;
+    height: auto;
+    padding: 0%;
+    margin: 2px;
+    color: #ECEEEE;
+    font-family: Arial, Helvetica, sans-serif;
+}
